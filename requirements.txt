@@ -3,3 +3,16 @@ numpy
 pandas
 pydeck
 streamlit
+yfinance
+scipy
+statsmodels
+matplotlib
+numpy
+datetime
+string
+time
+requests
+beautifulsoup4
+python-dateutil
+requests
+translate
